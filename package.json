@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A smart queue implementation",
   "license": "MIT",
-  "main": "lib/smart-queue.js",
+  "main": "lib/smart_queue.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/anandsuresh/smart-queue.git"
