@@ -1,3 +1,7 @@
+![npm (scoped)](https://img.shields.io/npm/v/@anandsuresh/smart-queue.svg?style=plastic)
+![Travis](https://img.shields.io/travis/anandsuresh/smart-queue.svg?style=plastic)
+![npm](https://img.shields.io/npm/dt/@anandsuresh/smart-queue.svg?style=plastic)
+
 # smart-queue
 
 A smart queue provides the abstraction of a queue that can operate in the following modes:
