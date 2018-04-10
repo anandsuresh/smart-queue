@@ -1,8 +1,12 @@
-![npm (scoped)](https://img.shields.io/npm/v/@anandsuresh/smart-queue.svg?style=plastic)
-![Travis](https://img.shields.io/travis/anandsuresh/smart-queue.svg?style=plastic)
-![npm](https://img.shields.io/npm/dt/@anandsuresh/smart-queue.svg?style=plastic)
-
 # smart-queue
+
+[![node (scoped)](https://img.shields.io/node/v/@anandsuresh/smart-queue.svg?style=plastic)](https://nodejs.org/en/download/)
+[![npm (scoped)](https://img.shields.io/npm/v/@anandsuresh/smart-queue.svg?style=plastic)](https://www.npmjs.com/package/@anandsuresh/smart-queue)
+[![npm](https://img.shields.io/npm/dt/@anandsuresh/smart-queue.svg?style=plastic)](https://www.npmjs.com/package/@anandsuresh/smart-queue)
+[![Travis](https://img.shields.io/travis/anandsuresh/smart-queue.svg?style=plastic)](https://travis-ci.org/anandsuresh/smart-queue)
+[![license](https://img.shields.io/github/license/anandsuresh/smart-queue.svg?style=plastic)](LICENSE)
+[![GitHub followers](https://img.shields.io/github/followers/anandsuresh.svg?style=social&label=Follow)](https://github.com/anandsuresh)
+[![Twitter Follow](https://img.shields.io/twitter/follow/anandsuresh.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=anandsuresh)
 
 A smart queue provides the abstraction of a queue that can operate in the following modes:
 - `drop`: a fixed-size queue that drops new elements when the queue is full

@@ -13,6 +13,9 @@
     "url": "https://github.com/anandsuresh/smart-queue/issues"
   },
   "homepage": "https://github.com/anandsuresh/smart-queue#readme",
+  "engines": {
+    "node": ">=8.0.0"
+  },
   "scripts": {
     "coverage": "NODE_ENV=test istanbul cover -i 'lib/**/*.js' _mocha -- --ui bdd --reporter spec --recursive spec && open coverage/lcov-report/index.html > /dev/null 2>&1",
     "lint": "standard",
